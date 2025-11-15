@@ -27,7 +27,7 @@ Register Number: 212222230051
 ```
 
 ## SOURCE CODE:
-```
+```JAVA
 import java.util.*;
 public class demo
 {
@@ -38,7 +38,7 @@ public class demo
         System.out.println("Absolute value = "+Math.abs(n));
     }
 }
-```java
+```
 
 ## OUTPUT:
 <img width=30% src="https://github.com/user-attachments/assets/5fab9f43-7f0e-491d-bbad-5c3b7979703e" />
@@ -47,6 +47,7 @@ public class demo
 
 ## RESULT:
 Therefore the program successfully reads a number and calculates its absolute value.
+
 
 
 
